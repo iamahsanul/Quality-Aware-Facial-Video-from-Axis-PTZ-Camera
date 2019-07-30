@@ -11,3 +11,7 @@ A C++ project that implements client server communication between camera and qua
 - Open the project in VC2012
 - Connect AXIS PTZ914 camera
 - Build in VC
+
+
+# Please cite
+Haque, M. A., Nasrollahi, K., and Moeslund, T. B. (2013).Real-time acquisition of high quality face sequencesfrom  an  active  pan-tilt-zoom  camera.   In2013 10thIEEE International Conference on Advanced Videoand Signal Based Surveillance, pages 443–448
