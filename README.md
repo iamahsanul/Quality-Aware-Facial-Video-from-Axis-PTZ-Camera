@@ -21,6 +21,7 @@ A C++ project that implements client server communication between a facial image
 - Connect AXIS PTZ914 camera (remember to put the right ip address of the camera in the code!)
 - Build in VC
 - Address the link or compile errors to match the approprite path and libraries
+- You can see the example outpout in a folder with face quality matrices in 'output.txt' file
 
 
 # Please cite
