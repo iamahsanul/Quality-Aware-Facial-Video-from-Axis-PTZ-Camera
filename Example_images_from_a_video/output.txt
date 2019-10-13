@@ -1,0 +1,455 @@
+
+Res: 21025 	Bright: 125 	Sharp: 97.6309 	Pose: 28.0713 	
+NormRes: 0 	NormBright: 0.642857 	NormSharp: 0.901745 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 60 	Camframe: 2 	Faces: 1 	Qualified faces: 0 	
+TimeVideoFrame: 3 	TimeCamshiftFaceDetect: 0 	TimeQuaAssess: 0 	
+
+Res: 21025 	Bright: 124 	Sharp: 97.5498 	Pose: 23.5372 	
+NormRes: 0 	NormBright: 0.628571 	NormSharp: 0.900664 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 61 	Camframe: 3 	Faces: 2 	Qualified faces: 0 	
+TimeVideoFrame: 3 	TimeCamshiftFaceDetect: 0 	TimeQuaAssess: 0 	
+
+Res: 25600 	Bright: 124 	Sharp: 96.626 	Pose: 34.2345 	
+NormRes: 0 	NormBright: 0.628571 	NormSharp: 0.888347 	NormPose: 0.934854 	
+Total score: 0 	VideoframeCount: 62 	Camframe: 4 	Faces: 3 	Qualified faces: 0 	
+TimeVideoFrame: 3 	TimeCamshiftFaceDetect: 0 	TimeQuaAssess: 0 	
+
+Res: 64516 	Bright: 126 	Sharp: 100.408 	Pose: 58.5235 	
+NormRes: 0.582397 	NormBright: 0.657143 	NormSharp: 0.938768 	NormPose: 0.561177 	
+Total score: 0.708073 	VideoframeCount: 101 	Camframe: 43 	Faces: 4 	Qualified faces: 1 	
+TimeVideoFrame: 5 	TimeCamshiftFaceDetect: 0 	TimeQuaAssess: 0 	
+
+Res: 64516 	Bright: 126 	Sharp: 99.9251 	Pose: 54.0833 	
+NormRes: 0.582397 	NormBright: 0.657143 	NormSharp: 0.932335 	NormPose: 0.629488 	
+Total score: 0.72583 	VideoframeCount: 102 	Camframe: 44 	Faces: 5 	Qualified faces: 2 	
+TimeVideoFrame: 6 	TimeCamshiftFaceDetect: 0 	TimeQuaAssess: 1 	
+
+Res: 68644 	Bright: 125 	Sharp: 105.249 	Pose: 68.2642 	
+NormRes: 0.665539 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.41132 	
+Total score: 0.694502 	VideoframeCount: 185 	Camframe: 127 	Faces: 6 	Qualified faces: 3 	
+TimeVideoFrame: 9 	TimeCamshiftFaceDetect: 0 	TimeQuaAssess: 1 	
+
+Res: 68644 	Bright: 125 	Sharp: 105.306 	Pose: 66.2722 	
+NormRes: 0.665539 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.441967 	
+Total score: 0.7034 	VideoframeCount: 186 	Camframe: 128 	Faces: 7 	Qualified faces: 4 	
+TimeVideoFrame: 10 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 1 	
+
+Res: 68644 	Bright: 125 	Sharp: 105.938 	Pose: 65.2763 	
+NormRes: 0.665539 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.457287 	
+Total score: 0.707848 	VideoframeCount: 188 	Camframe: 130 	Faces: 8 	Qualified faces: 5 	
+TimeVideoFrame: 10 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 1 	
+
+Res: 68644 	Bright: 125 	Sharp: 105.03 	Pose: 67.082 	
+NormRes: 0.665539 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.429507 	
+Total score: 0.699782 	VideoframeCount: 191 	Camframe: 133 	Faces: 9 	Qualified faces: 6 	
+TimeVideoFrame: 10 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 1 	
+
+Res: 66049 	Bright: 125 	Sharp: 106.484 	Pose: 64.9384 	
+NormRes: 0.613273 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.462486 	
+Total score: 0.700927 	VideoframeCount: 192 	Camframe: 134 	Faces: 10 	Qualified faces: 7 	
+TimeVideoFrame: 10 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 1 	
+
+Res: 65536 	Bright: 125 	Sharp: 106.166 	Pose: 60.0083 	
+NormRes: 0.602941 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.538333 	
+Total score: 0.721281 	VideoframeCount: 219 	Camframe: 161 	Faces: 11 	Qualified faces: 8 	
+TimeVideoFrame: 12 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 2 	
+
+Res: 68644 	Bright: 125 	Sharp: 105.886 	Pose: 64.2806 	
+NormRes: 0.665539 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 0.472606 	
+Total score: 0.712295 	VideoframeCount: 223 	Camframe: 165 	Faces: 12 	Qualified faces: 9 	
+TimeVideoFrame: 12 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 2 	
+
+Res: 75625 	Bright: 125 	Sharp: 103.808 	Pose: 61.1882 	
+NormRes: 0.806143 	NormBright: 0.642857 	NormSharp: 0.984105 	NormPose: 0.520181 	
+Total score: 0.743658 	VideoframeCount: 225 	Camframe: 167 	Faces: 13 	Qualified faces: 10 	
+TimeVideoFrame: 12 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 2 	
+
+Res: 29584 	Bright: 124 	Sharp: 120.5 	Pose: 15.2971 	
+NormRes: -0.121168 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.735295 	VideoframeCount: 378 	Camframe: 268 	Faces: 14 	Qualified faces: 11 	
+TimeVideoFrame: 20 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 2 	
+
+Res: 28900 	Bright: 124 	Sharp: 122.132 	Pose: 15.1327 	
+NormRes: -0.134945 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.733073 	VideoframeCount: 379 	Camframe: 269 	Faces: 15 	Qualified faces: 12 	
+TimeVideoFrame: 20 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 2 	
+
+Res: 28224 	Bright: 124 	Sharp: 122.766 	Pose: 15.1327 	
+NormRes: 0 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 380 	Camframe: 270 	Faces: 16 	Qualified faces: 12 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28900 	Bright: 124 	Sharp: 122.61 	Pose: 15.2971 	
+NormRes: -0.134945 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.733073 	VideoframeCount: 381 	Camframe: 271 	Faces: 17 	Qualified faces: 13 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28900 	Bright: 124 	Sharp: 121.866 	Pose: 15.2971 	
+NormRes: -0.134945 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.733073 	VideoframeCount: 382 	Camframe: 272 	Faces: 18 	Qualified faces: 14 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28900 	Bright: 124 	Sharp: 121.931 	Pose: 15.2971 	
+NormRes: -0.134945 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.733073 	VideoframeCount: 383 	Camframe: 273 	Faces: 19 	Qualified faces: 15 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28900 	Bright: 124 	Sharp: 121.787 	Pose: 15.2971 	
+NormRes: -0.134945 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.733073 	VideoframeCount: 384 	Camframe: 274 	Faces: 20 	Qualified faces: 16 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28561 	Bright: 124 	Sharp: 122.201 	Pose: 14.1421 	
+NormRes: -0.141772 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.731972 	VideoframeCount: 385 	Camframe: 275 	Faces: 21 	Qualified faces: 17 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28900 	Bright: 124 	Sharp: 122.327 	Pose: 15.2971 	
+NormRes: -0.134945 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.733073 	VideoframeCount: 386 	Camframe: 276 	Faces: 22 	Qualified faces: 18 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 28224 	Bright: 124 	Sharp: 123.655 	Pose: 14.0357 	
+NormRes: 0 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 387 	Camframe: 277 	Faces: 23 	Qualified faces: 18 	
+TimeVideoFrame: 21 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 3 	
+
+Res: 30625 	Bright: 124 	Sharp: 118.421 	Pose: 15.2971 	
+NormRes: -0.100201 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.738677 	VideoframeCount: 388 	Camframe: 278 	Faces: 24 	Qualified faces: 19 	
+TimeVideoFrame: 22 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 4 	
+
+Res: 30276 	Bright: 124 	Sharp: 119.63 	Pose: 15.2971 	
+NormRes: -0.107231 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.737543 	VideoframeCount: 389 	Camframe: 279 	Faces: 25 	Qualified faces: 20 	
+TimeVideoFrame: 22 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 4 	
+
+Res: 29241 	Bright: 125 	Sharp: 120.725 	Pose: 15.8114 	
+NormRes: -0.128077 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.737407 	VideoframeCount: 390 	Camframe: 280 	Faces: 26 	Qualified faces: 21 	
+TimeVideoFrame: 22 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 4 	
+
+Res: 28900 	Bright: 123 	Sharp: 124.815 	Pose: 18.6815 	
+NormRes: -0.134945 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.729848 	VideoframeCount: 396 	Camframe: 286 	Faces: 27 	Qualified faces: 22 	
+TimeVideoFrame: 22 	TimeCamshiftFaceDetect: 1 	TimeQuaAssess: 4 	
+
+Res: 28900 	Bright: 123 	Sharp: 125.035 	Pose: 18.6815 	
+NormRes: -0.134945 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.729848 	VideoframeCount: 397 	Camframe: 287 	Faces: 28 	Qualified faces: 23 	
+TimeVideoFrame: 23 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 27889 	Bright: 123 	Sharp: 125.784 	Pose: 17.088 	
+NormRes: 0 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 398 	Camframe: 288 	Faces: 29 	Qualified faces: 23 	
+TimeVideoFrame: 23 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 28900 	Bright: 123 	Sharp: 124.039 	Pose: 17.72 	
+NormRes: -0.134945 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.729848 	VideoframeCount: 399 	Camframe: 289 	Faces: 30 	Qualified faces: 24 	
+TimeVideoFrame: 23 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 29241 	Bright: 123 	Sharp: 124.101 	Pose: 16.7631 	
+NormRes: -0.128077 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.730955 	VideoframeCount: 400 	Camframe: 290 	Faces: 31 	Qualified faces: 25 	
+TimeVideoFrame: 23 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 29241 	Bright: 124 	Sharp: 126.844 	Pose: 18.4391 	
+NormRes: -0.128077 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.734181 	VideoframeCount: 419 	Camframe: 309 	Faces: 32 	Qualified faces: 26 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 27889 	Bright: 123 	Sharp: 126.522 	Pose: 17 	
+NormRes: 0 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 420 	Camframe: 310 	Faces: 33 	Qualified faces: 26 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 30276 	Bright: 124 	Sharp: 122.285 	Pose: 18.2483 	
+NormRes: -0.107231 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.737543 	VideoframeCount: 421 	Camframe: 311 	Faces: 34 	Qualified faces: 27 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 29241 	Bright: 124 	Sharp: 123.619 	Pose: 17.4642 	
+NormRes: -0.128077 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.734181 	VideoframeCount: 422 	Camframe: 312 	Faces: 35 	Qualified faces: 28 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 29584 	Bright: 124 	Sharp: 123.064 	Pose: 18.4391 	
+NormRes: -0.121168 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.735295 	VideoframeCount: 423 	Camframe: 313 	Faces: 36 	Qualified faces: 29 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 27889 	Bright: 124 	Sharp: 125.247 	Pose: 17.088 	
+NormRes: 0 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 424 	Camframe: 314 	Faces: 37 	Qualified faces: 29 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 29241 	Bright: 124 	Sharp: 124.19 	Pose: 18.2483 	
+NormRes: -0.128077 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.734181 	VideoframeCount: 425 	Camframe: 315 	Faces: 38 	Qualified faces: 30 	
+TimeVideoFrame: 24 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 35344 	Bright: 125 	Sharp: 127.494 	Pose: 19.0263 	
+NormRes: -0.00515609 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.757233 	VideoframeCount: 441 	Camframe: 331 	Faces: 39 	Qualified faces: 31 	
+TimeVideoFrame: 25 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 33124 	Bright: 125 	Sharp: 128.702 	Pose: 19.2354 	
+NormRes: -0.0498691 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.750021 	VideoframeCount: 442 	Camframe: 332 	Faces: 40 	Qualified faces: 32 	
+TimeVideoFrame: 25 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 31329 	Bright: 124 	Sharp: 130.86 	Pose: 17.1172 	
+NormRes: -0.0860222 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.740964 	VideoframeCount: 443 	Camframe: 333 	Faces: 41 	Qualified faces: 33 	
+TimeVideoFrame: 26 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 47524 	Bright: 124 	Sharp: 124.115 	Pose: 18 	
+NormRes: 0.240161 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.793574 	VideoframeCount: 556 	Camframe: 394 	Faces: 42 	Qualified faces: 34 	
+TimeVideoFrame: 32 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 4 	
+
+Res: 42849 	Bright: 124 	Sharp: 127.62 	Pose: 16.4924 	
+NormRes: 0.146002 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.778387 	VideoframeCount: 558 	Camframe: 396 	Faces: 43 	Qualified faces: 35 	
+TimeVideoFrame: 33 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 5 	
+
+Res: 41616 	Bright: 124 	Sharp: 128.055 	Pose: 18.1108 	
+NormRes: 0.121168 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.774382 	VideoframeCount: 559 	Camframe: 397 	Faces: 44 	Qualified faces: 36 	
+TimeVideoFrame: 33 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 5 	
+
+Res: 40401 	Bright: 124 	Sharp: 129.923 	Pose: 16.2788 	
+NormRes: 0.0966969 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.770435 	VideoframeCount: 560 	Camframe: 398 	Faces: 45 	Qualified faces: 37 	
+TimeVideoFrame: 33 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 5 	
+
+Res: 40804 	Bright: 125 	Sharp: 131.316 	Pose: 18.2483 	
+NormRes: 0.104814 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.77497 	VideoframeCount: 575 	Camframe: 413 	Faces: 46 	Qualified faces: 38 	
+TimeVideoFrame: 34 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 6 	
+
+Res: 42849 	Bright: 124 	Sharp: 132.17 	Pose: 15.2315 	
+NormRes: 0.146002 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.778387 	VideoframeCount: 587 	Camframe: 425 	Faces: 47 	Qualified faces: 39 	
+TimeVideoFrame: 34 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 6 	
+
+Res: 42849 	Bright: 123 	Sharp: 130.839 	Pose: 17.2047 	
+NormRes: 0.146002 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.775162 	VideoframeCount: 589 	Camframe: 427 	Faces: 48 	Qualified faces: 40 	
+TimeVideoFrame: 34 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 6 	
+
+Res: 47089 	Bright: 128 	Sharp: 136.698 	Pose: 11 	
+NormRes: 0.2314 	NormBright: 0.685714 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.805064 	VideoframeCount: 792 	Camframe: 568 	Faces: 49 	Qualified faces: 41 	
+TimeVideoFrame: 46 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 6 	
+
+Res: 51984 	Bright: 129 	Sharp: 129.254 	Pose: 13.4164 	
+NormRes: 0.32999 	NormBright: 0.7 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.824192 	VideoframeCount: 872 	Camframe: 648 	Faces: 50 	Qualified faces: 42 	
+TimeVideoFrame: 50 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 6 	
+
+Res: 54289 	Bright: 129 	Sharp: 128.115 	Pose: 14.7648 	
+NormRes: 0.376415 	NormBright: 0.7 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.83168 	VideoframeCount: 873 	Camframe: 649 	Faces: 51 	Qualified faces: 43 	
+TimeVideoFrame: 51 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 50176 	Bright: 129 	Sharp: 128.834 	Pose: 15.2315 	
+NormRes: 0.293575 	NormBright: 0.7 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.818318 	VideoframeCount: 874 	Camframe: 650 	Faces: 52 	Qualified faces: 44 	
+TimeVideoFrame: 51 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 51984 	Bright: 129 	Sharp: 129.776 	Pose: 13.4164 	
+NormRes: 0.32999 	NormBright: 0.7 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.824192 	VideoframeCount: 875 	Camframe: 651 	Faces: 53 	Qualified faces: 45 	
+TimeVideoFrame: 51 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 44944 	Bright: 129 	Sharp: 133.903 	Pose: 12.0416 	
+NormRes: 0.188197 	NormBright: 0.7 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.801322 	VideoframeCount: 876 	Camframe: 652 	Faces: 54 	Qualified faces: 46 	
+TimeVideoFrame: 51 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 50625 	Bright: 129 	Sharp: 130.367 	Pose: 13.9284 	
+NormRes: 0.302618 	NormBright: 0.7 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.819777 	VideoframeCount: 877 	Camframe: 653 	Faces: 55 	Qualified faces: 47 	
+TimeVideoFrame: 51 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 33856 	Bright: 124 	Sharp: 90.8429 	Pose: 14.1421 	
+NormRes: -0.0351259 	NormBright: 0.628571 	NormSharp: 0.811239 	NormPose: 1 	
+Total score: 0.688283 	VideoframeCount: 1165 	Camframe: 811 	Faces: 56 	Qualified faces: 48 	
+TimeVideoFrame: 70 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 32400 	Bright: 124 	Sharp: 91.1968 	Pose: 14.1421 	
+NormRes: -0.0644512 	NormBright: 0.628571 	NormSharp: 0.815957 	NormPose: 1 	
+Total score: 0.685075 	VideoframeCount: 1166 	Camframe: 812 	Faces: 57 	Qualified faces: 49 	
+TimeVideoFrame: 70 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 44100 	Bright: 126 	Sharp: 134.398 	Pose: 17.2627 	
+NormRes: 0.171198 	NormBright: 0.657143 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.788903 	VideoframeCount: 1321 	Camframe: 915 	Faces: 58 	Qualified faces: 50 	
+TimeVideoFrame: 79 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 44521 	Bright: 126 	Sharp: 134.921 	Pose: 16.1245 	
+NormRes: 0.179678 	NormBright: 0.657143 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.790271 	VideoframeCount: 1326 	Camframe: 920 	Faces: 59 	Qualified faces: 51 	
+TimeVideoFrame: 79 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 42025 	Bright: 126 	Sharp: 135.896 	Pose: 14.0357 	
+NormRes: 0.129406 	NormBright: 0.657143 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.782162 	VideoframeCount: 1327 	Camframe: 921 	Faces: 60 	Qualified faces: 52 	
+TimeVideoFrame: 79 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 42849 	Bright: 126 	Sharp: 136.383 	Pose: 14.0357 	
+NormRes: 0.146002 	NormBright: 0.657143 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.784839 	VideoframeCount: 1328 	Camframe: 922 	Faces: 61 	Qualified faces: 53 	
+TimeVideoFrame: 80 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 45369 	Bright: 126 	Sharp: 134.599 	Pose: 13.1529 	
+NormRes: 0.196757 	NormBright: 0.657143 	NormSharp: 1 	NormPose: 1 	
+Total score: 0.793025 	VideoframeCount: 1330 	Camframe: 924 	Faces: 62 	Qualified faces: 54 	
+TimeVideoFrame: 80 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 6724 	Bright: 125 	Sharp: 133.982 	Pose: 8.544 	
+NormRes: 0 	NormBright: 0.642857 	NormSharp: 1 	NormPose: 1 	
+Total score: 0 	VideoframeCount: 1349 	Camframe: 943 	Faces: 63 	Qualified faces: 54 	
+TimeVideoFrame: 81 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 43681 	Bright: 124 	Sharp: 96.9071 	Pose: 47.2969 	
+NormRes: 0.162759 	NormBright: 0.628571 	NormSharp: 0.892095 	NormPose: 0.733893 	
+Total score: 0.669025 	VideoframeCount: 1908 	Camframe: 1146 	Faces: 64 	Qualified faces: 55 	
+TimeVideoFrame: 115 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 44944 	Bright: 124 	Sharp: 95.4346 	Pose: 49.3964 	
+NormRes: 0.188197 	NormBright: 0.628571 	NormSharp: 0.872462 	NormPose: 0.701595 	
+Total score: 0.657418 	VideoframeCount: 1912 	Camframe: 1150 	Faces: 65 	Qualified faces: 56 	
+TimeVideoFrame: 115 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 40804 	Bright: 124 	Sharp: 98.7538 	Pose: 46.5725 	
+NormRes: 0.104814 	NormBright: 0.628571 	NormSharp: 0.916718 	NormPose: 0.745038 	
+Total score: 0.670858 	VideoframeCount: 1915 	Camframe: 1153 	Faces: 66 	Qualified faces: 57 	
+TimeVideoFrame: 115 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 42025 	Bright: 124 	Sharp: 98.6232 	Pose: 45.607 	
+NormRes: 0.129406 	NormBright: 0.628571 	NormSharp: 0.914976 	NormPose: 0.759892 	
+Total score: 0.678575 	VideoframeCount: 1917 	Camframe: 1155 	Faces: 67 	Qualified faces: 58 	
+TimeVideoFrame: 115 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 42849 	Bright: 124 	Sharp: 96.979 	Pose: 47.4342 	
+NormRes: 0.146002 	NormBright: 0.628571 	NormSharp: 0.893053 	NormPose: 0.731782 	
+Total score: 0.666019 	VideoframeCount: 1918 	Camframe: 1156 	Faces: 68 	Qualified faces: 59 	
+TimeVideoFrame: 116 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 43681 	Bright: 124 	Sharp: 97.4725 	Pose: 47.4342 	
+NormRes: 0.162759 	NormBright: 0.628571 	NormSharp: 0.899633 	NormPose: 0.731782 	
+Total score: 0.670844 	VideoframeCount: 1919 	Camframe: 1157 	Faces: 69 	Qualified faces: 60 	
+TimeVideoFrame: 116 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 45369 	Bright: 123 	Sharp: 97.917 	Pose: 46.0652 	
+NormRes: 0.196757 	NormBright: 0.614286 	NormSharp: 0.90556 	NormPose: 0.752844 	
+Total score: 0.681128 	VideoframeCount: 1931 	Camframe: 1169 	Faces: 70 	Qualified faces: 61 	
+TimeVideoFrame: 116 	TimeCamshiftFaceDetect: 2 	TimeQuaAssess: 7 	
+
+Res: 42849 	Bright: 123 	Sharp: 99.3062 	Pose: 40.8534 	
+NormRes: 0.146002 	NormBright: 0.614286 	NormSharp: 0.924082 	NormPose: 0.833025 	
+Total score: 0.702195 	VideoframeCount: 1934 	Camframe: 1172 	Faces: 71 	Qualified faces: 62 	
+TimeVideoFrame: 117 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 7 	
+
+Res: 42849 	Bright: 123 	Sharp: 99.9847 	Pose: 30.8707 	
+NormRes: 0.146002 	NormBright: 0.614286 	NormSharp: 0.933129 	NormPose: 0.986605 	
+Total score: 0.749701 	VideoframeCount: 1947 	Camframe: 1185 	Faces: 72 	Qualified faces: 63 	
+TimeVideoFrame: 117 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 7 	
+
+Res: 44100 	Bright: 123 	Sharp: 98.5512 	Pose: 42.5441 	
+NormRes: 0.171198 	NormBright: 0.614286 	NormSharp: 0.914016 	NormPose: 0.807014 	
+Total score: 0.69546 	VideoframeCount: 1949 	Camframe: 1187 	Faces: 73 	Qualified faces: 64 	
+TimeVideoFrame: 117 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 7 	
+
+Res: 44944 	Bright: 123 	Sharp: 99.5044 	Pose: 46.5188 	
+NormRes: 0.188197 	NormBright: 0.614286 	NormSharp: 0.926726 	NormPose: 0.745864 	
+Total score: 0.684549 	VideoframeCount: 1951 	Camframe: 1189 	Faces: 74 	Qualified faces: 65 	
+TimeVideoFrame: 118 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 40804 	Bright: 124 	Sharp: 102.738 	Pose: 46.8722 	
+NormRes: 0.104814 	NormBright: 0.628571 	NormSharp: 0.969834 	NormPose: 0.740428 	
+Total score: 0.686654 	VideoframeCount: 1979 	Camframe: 1217 	Faces: 75 	Qualified faces: 66 	
+TimeVideoFrame: 119 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 45796 	Bright: 125 	Sharp: 94.2672 	Pose: 42.72 	
+NormRes: 0.205358 	NormBright: 0.642857 	NormSharp: 0.856896 	NormPose: 0.804307 	
+Total score: 0.68821 	VideoframeCount: 2090 	Camframe: 1328 	Faces: 76 	Qualified faces: 67 	
+TimeVideoFrame: 124 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 47089 	Bright: 125 	Sharp: 93.4296 	Pose: 43.3244 	
+NormRes: 0.2314 	NormBright: 0.642857 	NormSharp: 0.845729 	NormPose: 0.79501 	
+Total score: 0.686109 	VideoframeCount: 2092 	Camframe: 1330 	Faces: 77 	Qualified faces: 68 	
+TimeVideoFrame: 124 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 47089 	Bright: 125 	Sharp: 94.1693 	Pose: 45.8803 	
+NormRes: 0.2314 	NormBright: 0.642857 	NormSharp: 0.855591 	NormPose: 0.755688 	
+Total score: 0.677874 	VideoframeCount: 2093 	Camframe: 1331 	Faces: 78 	Qualified faces: 69 	
+TimeVideoFrame: 124 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 47089 	Bright: 125 	Sharp: 95.1521 	Pose: 41.7612 	
+NormRes: 0.2314 	NormBright: 0.642857 	NormSharp: 0.868694 	NormPose: 0.819058 	
+Total score: 0.700499 	VideoframeCount: 2095 	Camframe: 1333 	Faces: 79 	Qualified faces: 70 	
+TimeVideoFrame: 124 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 51984 	Bright: 124 	Sharp: 100.836 	Pose: 42.9535 	
+NormRes: 0.32999 	NormBright: 0.628571 	NormSharp: 0.94448 	NormPose: 0.800716 	
+Total score: 0.732297 	VideoframeCount: 2198 	Camframe: 1436 	Faces: 80 	Qualified faces: 71 	
+TimeVideoFrame: 129 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 47089 	Bright: 123 	Sharp: 108.358 	Pose: 45.2769 	
+NormRes: 0.2314 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.76497 	
+Total score: 0.720701 	VideoframeCount: 2202 	Camframe: 1440 	Faces: 81 	Qualified faces: 72 	
+TimeVideoFrame: 129 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 8 	
+
+Res: 44944 	Bright: 123 	Sharp: 111.687 	Pose: 41.6773 	
+NormRes: 0.188197 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.820349 	
+Total score: 0.72981 	VideoframeCount: 2210 	Camframe: 1448 	Faces: 82 	Qualified faces: 73 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 42849 	Bright: 123 	Sharp: 111.935 	Pose: 42.0595 	
+NormRes: 0.146002 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.81447 	
+Total score: 0.721298 	VideoframeCount: 2213 	Camframe: 1451 	Faces: 83 	Qualified faces: 74 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 51984 	Bright: 123 	Sharp: 107.044 	Pose: 45.9674 	
+NormRes: 0.32999 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.754348 	
+Total score: 0.733519 	VideoframeCount: 2214 	Camframe: 1452 	Faces: 84 	Qualified faces: 75 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 50625 	Bright: 123 	Sharp: 107.086 	Pose: 44.5982 	
+NormRes: 0.302618 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.775412 	
+Total score: 0.735219 	VideoframeCount: 2215 	Camframe: 1453 	Faces: 85 	Qualified faces: 76 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 51984 	Bright: 123 	Sharp: 106.277 	Pose: 41.0366 	
+NormRes: 0.32999 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.830207 	
+Total score: 0.755542 	VideoframeCount: 2216 	Camframe: 1454 	Faces: 86 	Qualified faces: 77 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 54289 	Bright: 124 	Sharp: 105.38 	Pose: 38.6005 	
+NormRes: 0.376415 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 0.867684 	
+Total score: 0.777137 	VideoframeCount: 2217 	Camframe: 1455 	Faces: 87 	Qualified faces: 78 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 51076 	Bright: 123 	Sharp: 107.085 	Pose: 39.0512 	
+NormRes: 0.311702 	NormBright: 0.614286 	NormSharp: 1 	NormPose: 0.86075 	
+Total score: 0.76146 	VideoframeCount: 2218 	Camframe: 1456 	Faces: 88 	Qualified faces: 79 	
+TimeVideoFrame: 130 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 47089 	Bright: 124 	Sharp: 107.615 	Pose: 36.2491 	
+NormRes: 0.2314 	NormBright: 0.628571 	NormSharp: 1 	NormPose: 0.903859 	
+Total score: 0.764249 	VideoframeCount: 2224 	Camframe: 1462 	Faces: 89 	Qualified faces: 80 	
+TimeVideoFrame: 131 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 49729 	Bright: 125 	Sharp: 92.4045 	Pose: 58.8218 	
+NormRes: 0.284572 	NormBright: 0.642857 	NormSharp: 0.832061 	NormPose: 0.556588 	
+Total score: 0.621057 	VideoframeCount: 2247 	Camframe: 1485 	Faces: 90 	Qualified faces: 80 	
+TimeVideoFrame: 132 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
+
+Res: 54289 	Bright: 125 	Sharp: 93.7439 	Pose: 29.1548 	
+NormRes: 0.376415 	NormBright: 0.642857 	NormSharp: 0.849919 	NormPose: 1 	
+Total score: 0.770363 	VideoframeCount: 2259 	Camframe: 1497 	Faces: 91 	Qualified faces: 81 	
+TimeVideoFrame: 132 	TimeCamshiftFaceDetect: 3 	TimeQuaAssess: 9 	
